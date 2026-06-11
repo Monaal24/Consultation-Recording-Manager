@@ -1,0 +1,6 @@
+{
+  "name": "Consultation Recording Manager",
+  "description": "A centralized SaaS platform to manage professional clients, consultation notes, recordings, with automated Gemini AI summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
